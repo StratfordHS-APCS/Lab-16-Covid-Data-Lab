@@ -1,0 +1,2 @@
+language = "bash"
+run = "echo \"You didn't click the 'update' link.\""
